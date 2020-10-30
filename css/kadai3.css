@@ -1,24 +1,24 @@
 body{
-	background-image:url(../images/風景.jpg)
+	background-image:url(../images/背景.jpg)	
 }
 
 h1{
-	color:#9b7d63;
-	background-color:#abdfff;
+	color:#d7c641;
+	background-color:#a44b21;
 	text-align:center;
 }
 
 h2{
-	color:#9b7d63;
-	background-color:#abdfff;
+	color:#d7c641;
+	background-color:#a44b21;
 }
 
 h3{
-	color:#9b7d63;
-	background-color:#d5ffea;
+	color:#d7c641;
+	background-color:#a44b21;
 }
 
 p{
-	color:#9b7d63;
-	background-color:#d5ffea;
+	color:#d7c641;
+	background-color:#a44b21;
 }
