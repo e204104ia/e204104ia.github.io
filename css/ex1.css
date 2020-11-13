@@ -1,0 +1,23 @@
+body{
+	background-image:url(../images/茶チェック.jpg)
+}
+
+h1{
+	color:#ecdbb1;
+	text-align: center;
+	background-color:#ca9581;
+}
+
+h2{
+	color:#a8816e;
+	text-align: center;
+	background-color:#ecdbb1;
+}
+
+table{
+	background-color: #efe5c7;
+}
+
+ol{
+	background-image: url(../images/クリーム色.jpg)
+}

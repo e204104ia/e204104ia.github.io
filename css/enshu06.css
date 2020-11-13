@@ -1,0 +1,16 @@
+h1{
+	color:#ffff00;
+	font-size:50px;
+	font-weight:bold;
+	font-family:"Impact";
+	text-align:center;
+	background-color: #445644;
+}
+
+p{
+	background-color: #ffff00;
+}
+
+body{
+	background-image: url(../images/万華鏡.jpg)
+}
