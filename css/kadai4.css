@@ -1,0 +1,30 @@
+body{
+	background-image:url(../images/チェック柄.jpg)
+}
+
+
+h1.bluecolor{
+	text-align: center;
+	background-color:#2b5e48;
+	color:#282828;
+}
+
+
+h2.aicolor{
+	text-align: center;
+	color:#7657ff;
+	background-color:#b8b7e6;
+}
+
+h2.camuscolor{
+	text-align: center;
+	color:#219f76;
+	background-color:#bceae6;
+}
+
+
+
+h1#grren{
+	color:#e3dcdf;
+	background-color:#282828;
+}
