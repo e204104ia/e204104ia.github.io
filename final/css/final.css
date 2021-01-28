@@ -1,0 +1,140 @@
+body{
+	background-image:url(../images/クリーム色.jpg);
+	background-size:1010px;
+    background-repeat:repeat-y;
+}
+
+div.title{
+	width:980px;
+	height:65px;
+	color:white;
+	background-color:darkgreen;
+    padding-left:12px;
+	padding-bottom:15px;
+	font-size: 30px;
+}
+
+div.thum{
+	width:900px;
+	height:600px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:30px;
+	padding-bottom:50px;
+}
+
+div.content{
+	width:1000px;
+	height:400px;
+	font-size:0;
+	background-color:;
+}
+
+div.menu-place{
+	display:inline-block;
+	vertical-align: top;
+	width:260px;
+	height:360px;
+    background-color:cadetblue;
+	border: 10px solid black;
+	margin: 10px
+}
+
+div.menuitem{
+	width: 260px;
+	height: 50px;
+	font-size:25px;
+	background-color:white;
+	padding-top:20px;
+	text-align: center; 
+	border-bottom:2px dotted black;
+}
+
+div.menuitem2{
+	width: 260px;
+	height: 50px;
+	font-size:25px;
+	background-color:white;
+	padding-top:20px;
+	text-align: center; 
+}
+
+div.menuitem3{
+	width: 260px;
+	height: 50px;
+	color:coral;
+	font-size:25px;
+	font-weight:bold;
+	background-color:white;
+	padding-top:20px;
+	text-align: center; 
+	border-bottom:2px dotted black;
+}
+
+div.menuitem4{
+	width: 260px;
+	height: 50px;
+	color:coral;
+	font-size:25px;
+	font-weight:bold;
+	background-color:white;
+	padding-top:20px;
+	text-align: center; 
+}
+
+div.pic-place{
+	display:inline-block;
+	vertical-align: top;
+	font-size: 0;
+	font-size:30px;
+	width:680px;
+	height:380px;
+    background-color:;
+	margin: 10px;
+}
+
+
+div.pic-item{
+	font-size: 0;
+	width: 680px;
+	height: 190px;
+}
+
+div.pic-item2{
+	display:inline-block;
+	vertical-align: top;
+	font-size:50px;
+	text-align: center;
+	width: 310px;
+	height: 120px;
+	background-color:cadetblue;
+	padding-top:50px;
+	margin:5px;
+	border:5px dashed aquamarine;
+	color:black;
+}
+
+
+div.subtitle{
+	width:660px;
+	height:70px;
+	color:black;
+	background-color:cadetblue;
+	font-size:50px;
+	padding-left:10px;
+}
+
+div.article{
+	width:600px;
+	color:black;
+	padding-left:20px;
+}
+
+div.foot{
+	width:990px;
+	height:50px;
+	background-color:;
+	margin-top:20px;
+	padding-right: 10px;
+	text-align: right;
+}
